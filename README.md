@@ -32,11 +32,7 @@ The selection of skilled employees is become an intimidating task for human reso
 <img width="381" alt="image" src="https://github.com/BorHan-U/An-AI-Based-Resume-Screening-For-Job-Recruitment/assets/55747898/b8d6b6c5-ef1e-4e3d-900f-43a5d5977cd5">
 
 
-*DEMO RESULT AND VISUALISATION*
 
-<img width="482" alt="Screenshot 2023-11-14 at 1 34 46 PM" src="https://github.com/BorHan-U/An-AI-Based-Resume-Screening-For-Job-Recruitment/assets/55747898/0f300afe-7bd5-4fac-a403-d0eb02ed8ff2">
-
-<img width="470" alt="Screenshot 2023-11-14 at 1 34 57 PM" src="https://github.com/BorHan-U/An-AI-Based-Resume-Screening-For-Job-Recruitment/assets/55747898/7a843f92-ae92-4961-9f60-3fbcc0d5892d">
 
 As of now, in this project, ten employment area has been covered but it is planned that features will be added to make the model more generalized screening model to check all kinds of recruitment in the future.
 
